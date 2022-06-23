@@ -1,0 +1,8 @@
+{
+  "name": "commec2022",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "c021d4e5"
+}
